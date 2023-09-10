@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Dark Mode
-tags: [Katex, Mermaid, Markdown]
-categories: Demo
+title: First Post
 ---
 
 # First Post
