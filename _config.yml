@@ -1,1 +1,5 @@
 remote_theme: sylhare/Type-on-Strap
+
+# THEME-SPECIFIC CONFIGURATION
+title: My Blog                                   # site's title
+description: "My blog to record my stuff"      # used by search engines
