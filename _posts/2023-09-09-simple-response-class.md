@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Response Class
-exerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 # Simple Response Class
