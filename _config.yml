@@ -6,10 +6,10 @@ description: "My blog to record my stuff"      # used by search engines
 
 # Header and footer text
 header_text: My Blog  # Change Blog header text
-header_feature_image: assets/img/header/main_header.jpg    # 2484 x 1280
+header_feature_image: assets/img/header/main_header_thin.jpg    # 2484 x 1280
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>; Hosted on Github Pages
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>; Hosted on <a href="https://pages.github.com/">Github Pages</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
@@ -23,7 +23,7 @@ katex: true                                             # Enable if using math m
 mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: true                                    # To respect the usage of cookies
-color_theme: auto                                       # auto, dark or light
+color_theme: dark                                       # auto, dark or light
 
 # BLOG CONFIGURATION
 post_navigation: true
