@@ -6,9 +6,7 @@ exerpt_separator: <!--more-->
 
 # Simple Response Class
 
-This is a simple response class that I use for a consistent a response object to my CQRS commands/queries and APIs.  
-<!--more-->
-This response object could easily be used for methods that need a consistent reponse, etc (maybe instead of tuples? 😛).  I like using fluent APIs, so I have written it this way.  I'm sure it could be tweaked to be made 'better', but I've found this works for almost all the situations where I've needed a consistent, readable response.
+This is a simple response class that I use for a consistent a response object to my CQRS commands/queries and APIs.<!--more--> This response object could easily be used for methods that need a consistent reponse, etc (maybe instead of tuples? 😛).  I like using fluent APIs, so I have written it this way.  I'm sure it could be tweaked to be made 'better', but I've found this works for almost all the situations where I've needed a consistent, readable response.
 
 In a file `Response.cs`
 ```csharp

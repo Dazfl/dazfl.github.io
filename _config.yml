@@ -6,7 +6,7 @@ description: "My blog to record my stuff"      # used by search engines
 
 # Header and footer text
 header_text: My Blog  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg    # 2484 x 1280
+header_feature_image: assets/img/header/main_header.jpg    # 2484 x 1280
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>; Hosted on Github Pages
