@@ -75,7 +75,7 @@ else
 
 ```
 
-### Example usage of receiving the response
+#### Example usage of receiving the response
 ```csharp
 var response = GetTheResponseMethod();
 if (response.IsSuccessful)
