@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Implement Commands and Queries (CQRS and MediatR)
+title: How I implement Commands and Queries (CQRS and MediatR)
 excerpt_separator: <!--more-->
 ---
 
