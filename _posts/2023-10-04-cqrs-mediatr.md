@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How I implement Commands and Queries
-color: blue
 excerpt_separator: <!--more-->
 ---
 
