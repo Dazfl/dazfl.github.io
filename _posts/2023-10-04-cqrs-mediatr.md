@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I implement Commands and Queries
+hide_title: true
 excerpt_separator: <!--more-->
 ---
 
