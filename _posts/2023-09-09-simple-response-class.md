@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simple Response Object
+color: rgb(0,168,224)
 excerpt_separator: <!--more-->
 ---
 
