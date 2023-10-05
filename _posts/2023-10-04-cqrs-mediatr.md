@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How I implement Commands and Queries (CQRS and MediatR)
+title: How I implement Commands and Queries
 excerpt_separator: <!--more-->
 ---
 
-# CQRS and MediatR
-
 When building applications, I like to use the CQRS and Mediator pattern. This is how I typically set up my Commands and Queries using the MediatR library.<!--more-->
+
+# CQRS and MediatR
 
 ## The Basics
 
